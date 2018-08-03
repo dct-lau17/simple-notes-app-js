@@ -12,6 +12,11 @@
     return this.element.innerHTML = view.toHTML();
   }
 
+ // NoteController.prototype.setEventListeners = function(){
+ //   document.addEventListener('load', this.getHTML)
+ //  }
+  
+
 
 
    exports.NoteController = NoteController;
